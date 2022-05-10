@@ -1,2 +1,2 @@
-# CDN2
+# CDN
 by PicGo
