@@ -43,14 +43,14 @@
 ::-webkit-scrollbar-thumb {
   background-color: var(--hassan-gray);
   background-image: -webkit-linear-gradient(
-    45deg,
-    rgba(255, 255, 255, 0.4) 25%,
-    transparent 25%,
-    transparent 50%,
-    rgba(255, 255, 255, 0.4) 50%,
-    rgba(255, 255, 255, 0.4) 75%,
-    transparent 75%,
-    transparent
+          45deg,
+          rgba(255, 255, 255, 0.4) 25%,
+          transparent 25%,
+          transparent 50%,
+          rgba(255, 255, 255, 0.4) 50%,
+          rgba(255, 255, 255, 0.4) 75%,
+          transparent 75%,
+          transparent
   );
   border-radius: 2em;
 }
@@ -156,7 +156,7 @@ h6:hover {
   transform: translate(0.6rem);
 }
 h1.app-name:hover,
-h1#诗-颂-的-文-档:hover,
+h1#dongkcs-的-文-档:hover,
 h2#docsify-4121:hover {
   transform: translate(0);
 }
@@ -197,7 +197,7 @@ h6:before {
   color: #bfe4fb;
 }
 h1.app-name::before,
-h1#dongkcs 的 文 档::before,
+h1#dongkcs的文档::before,
 h2#docsify-4121:before {
   content: "";
   margin: 0;
@@ -480,10 +480,33 @@ div iframe {
   padding: 6% 0;
   margin: 3em 0 1em;
   background: url(https://npm.elemecdn.com/hassan-assets/img/Bilibili_Dividing_Line.png)
-    no-repeat;
+  no-repeat;
   background-size: 80%;
 }
 
+/* 鼠标图标 -----------------------------------------------------------------------开始 */
+/*body {*/
+/*  cursor: url(https://npm.elemecdn.com/hassan-assets/img/cursor.png), default !important;*/
+/*}*/
+
+/*i标签，a标签，按钮，头部的导航栏，网址卡片，页脚链接*/
+/*i:hover,*/
+/*a:hover,*/
+/*button:hover,*/
+/*#nav .site-page:hover,*/
+/*.xe-widget.xe-conversations.box2.label-info {*/
+/*  cursor: url(https://npm.elemecdn.com/hassan-assets/img/cursor_puppy.png),*/
+/*    pointer !important;*/
+/*}*/
+
+/*页脚a标签，分页器，搜索框*/
+/*#footer-wrap a:hover,*/
+/*#pagination .page-number:hover,*/
+/*input#txt {*/
+/*  cursor: url(https://npm.elemecdn.com/hassan-assets/img/cursor_stitch.png),*/
+/*    pointer !important;*/
+/*}*/
+/* 鼠标图标 -----------------------------------------------------------------------结束 */
 
 /* 移动端 -------------------------------------- 开始 */
 /* 左右边距 */
