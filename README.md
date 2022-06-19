@@ -1,2 +1,2 @@
 # CDN
-by PicGo
+by PicGo 2022
