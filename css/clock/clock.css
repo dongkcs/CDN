@@ -3,7 +3,7 @@
     src: url('https://cdn.jsdelivr.net/gh/Zfour/Butterfly-clock/clock/fonts/UnidreamLED.ttf'); /*URL to font*/
 }
 #hexo_electric_clock{
-padding:20px
+    padding:20px
 }
 .card-clock{
     padding: 0!important;
