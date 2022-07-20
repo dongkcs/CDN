@@ -1,6 +1,6 @@
 {
   "name": "dongkcs-assets",
-  "version": "1.10.16",
+  "version": "1.0.0",
   "description": "ss files",
   "main": "index.js",
   "scripts": {
