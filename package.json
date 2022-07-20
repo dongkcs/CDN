@@ -1,5 +1,5 @@
 {
-  "name": "dongkcs-assets",
+  "name": "dongkcs-asset",
   "version": "1.0.1",
   "description": "ss files",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://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@github.com/dongkcs/CDN.git"
+    "url": "git+https://github.com/dongkcs/CDN.git"
   },
   "keywords": [
     "ss"
